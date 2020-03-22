@@ -1,0 +1,17 @@
+{
+  "name": "hilo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "zwitterion --spa-root demo/index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "zwitterion": "^0.45.0"
+  }
+}
